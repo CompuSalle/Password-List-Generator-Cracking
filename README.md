@@ -14,7 +14,7 @@
 Note:
 1. This program Creates a password list of your choice.
 2. This program can brute force passwords on run, not over different URLs ..etc.
-3. Can be modified to fit your purposes (Ethical purposes)
+3. Can be modified to fit your purposes (Ethical Purposes)
 
 
 
