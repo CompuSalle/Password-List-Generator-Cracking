@@ -23,14 +23,14 @@ Overall, the rainbow table generate function (step 1) can create a password comb
 of (numbers – lowercase – uppercase – symbols) as user-chosen, the password list length can also
 be chosen by the user, the password will then be generated and saved in a (txt) file. 
 
-The algorithm for pasrt **_A_** is as explained:
+The algorithm for part **A** is as explained:
 - Ask the user if he wants to generate a password table or brute-force a code.
 - Asking the user to input the needed combination for his list. (One combination, e.g. onlynumbers), (two combinations, e.g. numbers and lowercase).
 - Asking the user to insert the password length, min length, and max length.
 - Asking the user if he wants to display the output on the screen
 - Saving the result into (txt) file
 
-Part **_B_**: 
+Part **B**: 
 
 A function has been created to take the user input (password) and brute force it using a pre-created
 rainbow table; the user should insert the rainbow table directory name to be able to use it. 
