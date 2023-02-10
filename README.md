@@ -4,7 +4,7 @@
 
 
 #### @Copyright - Wassem Alaa-Iddin
-#### Free To Use - Name Maintaining Would Be Nice. 
+#### Free To Use - Name Mentioning Would Be Nice. 
 
 -----------
 
