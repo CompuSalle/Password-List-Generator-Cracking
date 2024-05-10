@@ -24,10 +24,10 @@ of (numbers – lowercase – uppercase – symbols) as user-chosen, the passwor
 be chosen by the user, the password will then be generated and saved in a (txt) file. 
 
 The algorithm for part **A** is as explained:
-- Ask the user if he wants to generate a password table or brute-force a code.
+- Ask the user if he/she wants to generate a password table or brute-force a code.
 - Asking the user to input the needed combination for his list. (One combination, e.g. onlynumbers), (two combinations, e.g. numbers and lowercase).
 - Asking the user to insert the password length, min length, and max length.
-- Asking the user if he wants to display the output on the screen
+- Asking the user if he/she wants to display the output on the screen
 - Saving the result into (txt) file
 
 Part **B**: 
